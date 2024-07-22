@@ -21,7 +21,6 @@ The used datasets are available at:
 * MSL&SMAP https://github.com/khundman/telemanom 
 * https://www.kaggle.com/datasets/patrickfleith/nasa-anomaly-detection-dataset-smap-msl?resource=download
 
-
 ### Preprocess the data
 `python data_preprocess.py <dataset>`
 
